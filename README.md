@@ -1,7 +1,23 @@
 # power-start-menu
-Customize start menu experience for Windows 11
+
+Tweak the start menu of windows 11 to unleash the full POWER.
+
+This app currently enables you to customize the looks of the Start menu in Windows 11, 
+including background transparency, hide search box, hide suggestions.
+
+More tweaks will be added. Please visit github discussions if you have more ideas.
+
+![1](https://user-images.githubusercontent.com/1483954/225414595-a7f3bd2d-a50c-4060-962a-e8332066fab6.png)
+
+
 
 #1. Collapse "Recommended" Entirely
 
+#2. Remove "Search Box" to free more space
 
-![start 11](https://user-images.githubusercontent.com/1483954/222775542-628506d9-0041-4420-a3b7-a62d2c96dbe7.png)
+#3. Make the background transparent.
+
+
+
+
+
